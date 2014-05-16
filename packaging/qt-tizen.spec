@@ -10,6 +10,7 @@ Source:         %{name}-%{version}.tar.gz
 BuildRequires:  make
 Requires: qt5-qtdeclarative-examples
 Requires: qt5-qtmultimedia-plugin-mediaservice-gstmediaplayer
+Requires: qt5-cinematic-experience
 
 %description
 Add some links to launcher
